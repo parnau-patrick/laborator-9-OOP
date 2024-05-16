@@ -1,0 +1,10 @@
+Uncharted;actiune;2022;Tom Holland
+John Wick;actiune;2014;Keanu Reeves
+In timp;actiune;2011;Justin Timberlake
+Diavolul se imbraca de la Prada;comedie;2006;Anne Hathaway
+Blonda de la drept;comedie;2001;Reese Witherspoon
+Oameni mari si fara minte;comedie;2010;Adam Sandler
+Crima din Orient Express;politist;2017;Kenneth Branagh
+Hunger Games;thriller;2012;Jennifer Lawrence
+Hunger Games 2;thriller;2012;Jennifer Lawrence
+Harry Potter;fantasy;2000;Daniel Radcliff
